@@ -43,20 +43,20 @@ Project
 │  ├─istar
 │  ├─lyu
 │  │  ├─config
-│  │  │      config.py
-│  │  │      __init__.py
+│  │  │  ├─config.py
+│  │  │  └─__init__.py
 │  │  │
 │  │  ├─data
 │  │  │  ├─npy_final
 │  │  │  └─vec_final
 │  │  ├─load
-│  │  │      data.py
-│  │  │      feature.py
-│  │  │      __init__.py
+│  │  │  ├─data.py
+│  │  │  ├─feature.py
+│  │  │  └─__init__.py
 │  │  │
 │  │  ├─model
-│  │  │      model.py
-│  │  │      __init__.py
+│  │  │  ├─model.py
+│  │  │  └─__init__.py
 │  │  │
 │  │  └─save
 │  │      ├─age
@@ -66,13 +66,13 @@ Project
 └─scr
     ├─istar
     ├─lyu
-    │      data_process.py
-    │      inference.py
-    │      n2v.py
-    │      process.py
-    │      tfidf.py
-    │      train.py
-    │      w2v.py
+    │  ├─data_process.py
+    │  ├─inference.py
+    │  ├─n2v.py
+    │  ├─process.py
+    │  ├─tfidf.py
+    │  ├─train.py
+    │  └─w2v.py
     │
     └─wujie
 ```
