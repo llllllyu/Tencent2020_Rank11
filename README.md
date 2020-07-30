@@ -8,6 +8,8 @@
 
 排名：初赛rank6，复赛rank11
 
+我的blog分享[链接](https://blog.csdn.net/weixin_40174982/article/details/107684975)
+
 本项目为我个人（lyu）部分代码，队友代码参考[istar]()、[wujie](https://github.com/wujiekd/2020-Tencent-advertising-algorithm-contest-rank11)，
 其中本项目需要用到istar的tfidf部分特征和wujie的deepwalk部分特征，缺少这部分特征效果会有下降
 
